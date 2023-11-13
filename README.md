@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there... I'm Gabriel Peixe 👋
 
-<!--
-**gabrielpeixe16/gabrielpeixe16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### About
+- 🚀 I'm a Web Developer. And, I'm studying Web Development at [Rocketseat] (https://www.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Current Stack
+- ⚡️ Main language: `Javascript`
+- 📡 Backend: `Node.js`
+- 🎉 Frontend: `React.js`, `HTML 5`, `CSS 3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version Code Control: `Git & Github`
+- 🔨 Tools: `VsCode`, `Markdown`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+- 📧 Email: gabrielpeixe902@gmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/gabriel-de-oliveira-peixe-a2b27b237/
